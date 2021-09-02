@@ -1,0 +1,98 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.freeBox___58TAd {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-width: 0;
+  padding: 25px 50px;
+}
+.freeBox___58TAd > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: calc(0px - 32px);
+  height: calc(100% + 32px);
+}
+.freeBox___58TAd > :global(.__wab_flex-container) > *,
+.freeBox___58TAd > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox___58TAd > :global(.__wab_flex-container) > picture > img,
+.freeBox___58TAd
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 32px;
+}
+@media (min-width: 768px) {
+  .freeBox___58TAd {
+    width: 630px;
+  }
+}
+.homeHeader:global(.__wab_instance) {
+  position: relative;
+}
+.freeBox__jUdTt {
+  color: #ff0000;
+  height: 48px;
+  width: 312px;
+}
+.container {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  min-width: 0;
+}
+.container > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 32px);
+  height: calc(100% + 32px);
+}
+.container > :global(.__wab_flex-container) > *,
+.container > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.container > :global(.__wab_flex-container) > picture > img,
+.container
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 32px;
+}
+.freeBox__inXdg {
+  height: auto;
+}
+.freeBox__yHjRz {
+  position: relative;
+  height: auto;
+  width: 552px;
+}
+.listItem___03Rur:global(.__wab_instance) {
+  position: relative;
+}
+.freeBox___2Gal5 {
+  height: auto;
+}
+.listItem__g4Huv:global(.__wab_instance) {
+  position: relative;
+}
+.listItem___5SOvW:global(.__wab_instance) {
+  position: relative;
+}
+.freeBox__rzUF {
+  height: auto;
+}
+.footer:global(.__wab_instance) {
+  position: relative;
+}
